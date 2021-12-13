@@ -1,6 +1,6 @@
 # Anotações de comandos do Git
 
-###Comandos GitHub 
+## Comandos GitHub
 
 * git config --list (mostra as configurações do git)
 * git config --global user.name "email" (insere e-mail no config do git) 
